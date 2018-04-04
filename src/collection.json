@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "rxjs-v6-migration-schematic": {
+      "description": "A blank schematic.",
+      "factory": "./rxjs-v6-migration-schematic/index#rxjsV6MigrationSchematic"
+    }
+  }
+}
